@@ -13,7 +13,7 @@ SLF4J: See http://www.slf4j.org/codes.html#no_static_mdc_binder for further deta
 ```
 Plus, now there are things that are being printed to your log that are not being formatted by your custom logger.
 
-Thats where Please STFU SLF4J comes in! Its a (almost) drop in ready piece of code that puta a piece of duct tape over SLFJ's loud mouth, silences those pesky startup errors, and even can integrate with your own custom logger! What are you waiting for?!
+Thats where Please STFU SLF4J comes in! Its a (almost) drop in ready piece of code that puta a piece of duct tape over SLF4J's loud mouth, silences those pesky startup errors, and even can integrate with your own custom logger! What are you waiting for?!
 
 ## Installation
 Copy all the code from the [code](./code/) folder into your project.
